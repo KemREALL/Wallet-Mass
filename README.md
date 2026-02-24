@@ -1,1 +1,1 @@
-Generator Wallet EVM ( Buat wallet untuk Nuyul Testnet )
+Generator Wallet EVM ( Buat Banyak wallet untuk Nuyul Testnet )
